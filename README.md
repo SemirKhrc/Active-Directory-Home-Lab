@@ -95,10 +95,3 @@ Utilizzo di Kali Linux e Atomic Red Team per simulare tecniche MITRE ATT&CK e mi
 `Splunk Enterprise` `Splunk Universal Forwarder` `Sysmon` `Atomic Red Team` `draw.io`
 
 ---
-
-## 👤 Autore
-
-**Semir**  
-Junior SOC Analyst | IT Infrastructure  
-📍 Verona, Italia  
-🔗 [LinkedIn](#) · [GitHub](#)
