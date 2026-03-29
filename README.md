@@ -43,8 +43,6 @@ Active Directory promosso a Domain Controller. Splunk configurato per ricevere l
 **Parte 4 — Simulazione e Detection**
 Attacchi simulati da Kali Linux (brute force, credential attacks) e tramite Atomic Red Team con tecniche mappate su MITRE ATT&CK. Rilevamento verificato su Splunk tramite correlazione di Event ID e telemetria Sysmon.
 
-**Parte 5 — Analisi**
-Correlazione degli eventi tra più sorgenti log, analisi degli alert generati e documentazione dei risultati.
 
 ---
 
