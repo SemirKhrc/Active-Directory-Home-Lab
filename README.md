@@ -60,7 +60,8 @@ Correlazione degli eventi tra più sorgenti log, analisi degli alert generati e 
 ![Splunk logs](screenshots/splunk-incoming-logs.png)
 
 ### Splunk — Rilevamento brute force (Event ID 4625)
-![Splunk detection](screenshots/splunk-bruteforce-detection.png)
+![Splunk detection](screenshots/splunk-bruteforce-detection1.png)
+![Splunk detection](screenshots/splunk-bruteforce-detection2.png)
 
 ### Sysmon — Telemetria processo in Splunk
 ![Sysmon](screenshots/sysmon-process-telemetry.png)
